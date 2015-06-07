@@ -72,6 +72,8 @@ The first line of the descriptor is its header. Their columns, in order, are:
 ################# License and contact #############################
 ###################################################################
 
-We are not responsible for the content shared by the picture's owner though we tried to remove all those images that could be offensive. Please, if you encounter any image that you think should be deleted from the data set please email here: daniel.mora.checa@gmail.com \n
+We are not responsible for the content shared by the picture's owner though we tried to remove all those images that could be offensive. Please, if you encounter any image that you think should be deleted from the data set please email here: daniel.mora.checa@gmail.com
 
 This data set is published under GPL license.
+
+Work done by Daniel mora de Checa and Rubèn Tous.
